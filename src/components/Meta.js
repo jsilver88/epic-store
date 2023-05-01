@@ -4,7 +4,7 @@ export default function Meta() {
   return (
     <Head>
       <title>EpicStore</title>
-      <link rel='icon' type='image/x-icon' href='/favicon.io?v=1' />
+      <link rel='icon' type='image/x-icon' href='/favicon.io' />
     </Head>
   )
 }
